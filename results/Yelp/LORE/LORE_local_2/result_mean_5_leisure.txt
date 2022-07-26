@@ -1,0 +1,2 @@
+Precision	Recall	MAP	NDCG
+0.0471	0.0111	0.0247	0.0465
